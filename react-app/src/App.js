@@ -26,6 +26,7 @@ class App extends Component {
                 <Route exact path="**" component={NotFound} />
               </Switch>
             </Suspense>
+            テスト確認
           </main>
         </div>
       </div>
