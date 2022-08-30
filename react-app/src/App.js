@@ -14,6 +14,7 @@ class App extends Component {
   render() {
     return (
       <div>
+        <a href="/.auth/login/aad">Login</a>
         <HeaderBar />
         <div className="section columns">
           <NavBar />
